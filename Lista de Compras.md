@@ -1,0 +1,3 @@
+- [ ] comprar carne
+- [ ] veladora
+- [ ] huevo
