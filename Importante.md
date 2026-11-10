@@ -28,7 +28,11 @@ Deraj11327$
 jared.vergarac@alumno.buap.mx vergaracarmona65585@gmail.com jaredvergara@proton.me
 ## Códigos Google
 
-0065 7309 9234 2042 6017 1515 7616 1871 3280 9868 2328 6309 1557 7710 3608 8262 2992 6712 2976 4082 Nip telefónico 272942 pcH9G2Hhpb Steam R96887 Magis: 646497812
+0065 7309 9234 2042 6017 1515 7616 1871 3280 9868 2328 6309 1557 7710 3608 8262 2992 6712 2976 4082 
+Nip telefónico 272942 
+pcH9G2Hhpb 
+Steam  
+Magis: 646497812
 # XELHUA
 ## Correo
 jvergara@bachilleratoxelhua.edu.mx 
