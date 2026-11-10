@@ -7,14 +7,14 @@
 	- [ ] Grabar audio
 	- [ ] Editar video
 	- [ ] Publicar video
-Leer 4 libros [0/4]
-Kong
-Palabras radiantes
-El de disney
-Uno extra
-Hacer un hábito de ejercicio y meditar (no romper el streak)
-Intentar salir más seguido a la bici (al menos una vez a la semana)
-No presionarme e ir más despacio.
+- [ ] Leer 4 libros (0/4)
+	- [ ] Kong
+	- [ ] Palabras radiantes
+	- [ ] El de disney
+	- [ ] Uno extra
+- [ ] Hacer un hábito de ejercicio y meditar (no romper el streak)
+- [ ] Intentar salir más seguido a la bici (al menos una vez a la semana)
+- [ ] No presionarme e ir más despacio.
 
 ## PROGRAMAR
 
