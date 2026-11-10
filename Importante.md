@@ -15,9 +15,11 @@ D-5984297
 FDONAORG-261026-2320
 # BANCOS
 ## Nu
-Clabe 638180010138774739 Número de cuenta 01013877473
+Clabe 638180010138774739 
+Número de cuenta 01013877473
 ## BBVA
-Número de tarjeta: 4152313622833247 CLABE 012180015810037409
+Número de tarjeta: 4152313622833247 
+CLABE 012180015810037409
 ## Cetes
 Número de contrato: 135180330029466180
 ## OPENBANK
@@ -25,7 +27,9 @@ Deraj11327$
 ## Folio Banamex
 20261001079949701
 # CORREO Y CONTRASEÑAS
-jared.vergarac@alumno.buap.mx vergaracarmona65585@gmail.com jaredvergara@proton.me
+jared.vergarac@alumno.buap.mx
+vergaracarmona65585@gmail.com 
+jaredvergara@proton.me
 ## Códigos Google
 
 0065 7309 
