@@ -2,7 +2,8 @@
 ## Curp
 VECJ010227HPLRRRA1
 ## NSS
-54190109261 Vacunas: tétanos 15 de abril 2024, influenza 6 de noviembre de 2024, covid abdala 07 noviembre 2024, 5 de marzo 2026 la triple viral
+54190109261 
+Vacunas: tétanos 15 de abril 2024, influenza 6 de noviembre de 2024, covid abdala 07 noviembre 2024, 5 de marzo 2026 la triple viral
 ## RFC
 VECJ0102272U2
 ## IMEI
