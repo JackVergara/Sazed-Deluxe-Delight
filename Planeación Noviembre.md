@@ -1,6 +1,6 @@
-<TO DO LIST TO THE MONTH>
-[] Acabar todos los trámites de actas.
-[] Acabar de titularme.
+# TO DO LIST TO THE MONTH
+Acabar todos los trámites de actas.
+Acabar de titularme.
 [] Conseguir un buen trabajo decente para pagar cuentas.
 [] Video Youtube
 - [] Guion
@@ -16,16 +16,16 @@
 [] Intentar salir más seguido a la bici (al menos una vez a la semana)
 [] No presionarme e ir más despacio.
 
-<PROGRAMAR>
+PROGRAMAR
 [] Que Vale me firme
 []  
 
 ------------------------------------------------
-<COMPLETADO>
+COMPLETADO
 [X] Se logró pagar las deudas el 2 de noviembre.
 
 ------------------------------------------------
-<HÁBITOS>
+HÁBITOS
 ______________
 [Idiomas]
 1-2-3-4-5-7-8-9
@@ -48,10 +48,12 @@ ______________
 [No sobre-pensar e ir despacio]
 1-2-3-4-5-8-9
 ------------------------------------------------
-# ANÁLISIS DE LO REALIZADO EN EL DÍA
+
+# 
+### ANÁLISIS DE LO REALIZADO EN EL DÍA
 
 1
-2
+2 
 3
 4
 5 Tengo una serio problema para lograr dormir temprano.
