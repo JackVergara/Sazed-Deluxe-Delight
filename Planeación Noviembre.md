@@ -1,12 +1,12 @@
 # TO DO LIST TO THE MONTH
-Acabar todos los trámites de actas.
-Acabar de titularme.
-Conseguir un buen trabajo decente para pagar cuentas.
-Video Youtube
-- Guion
-- Grabar audio
-- Editar video
-- Publicar video
+- [ ] Acabar todos los trámites de actas.
+- [ ] Acabar de titularme.
+- [ ] Conseguir un buen trabajo decente para pagar cuentas.
+- [ ] Video Youtube
+	- [ ] Guion
+	- [ ] Grabar audio
+	- [ ] Editar video
+	- [ ] Publicar video
 Leer 4 libros [0/4]
 Kong
 Palabras radiantes
@@ -16,7 +16,7 @@ Hacer un hábito de ejercicio y meditar (no romper el streak)
 Intentar salir más seguido a la bici (al menos una vez a la semana)
 No presionarme e ir más despacio.
 
-PROGRAMAR
+## PROGRAMAR
 
 
 ------------------------------------------------
@@ -45,11 +45,9 @@ Comer sano
 1-2-4-5-6-7-8-9
 ______________
 No sobre-pensar e ir despacio
-
 1-2-3-4-5-8-9
-------------------------------------------------
 
-# 
+------------------------------------------------ 
 ### ANÁLISIS DE LO REALIZADO EN EL DÍA
 
 1
