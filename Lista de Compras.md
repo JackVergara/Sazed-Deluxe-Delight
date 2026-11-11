@@ -1,3 +1,3 @@
-- [ ] comprar carne 3/4
-- [ ] veladora
-- [ ] huevo
+- [x] comprar carne 3/4
+- [x] veladora
+- [x] huevo
