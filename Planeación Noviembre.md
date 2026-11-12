@@ -27,25 +27,25 @@ Se logró pagar las deudas el 2 de noviembre.
 HÁBITOS
 ______________
 Idiomas
-1-2-3-4-5-7-8-9
+1-2-3-4-5-7-8-9-11-12
 ______________
 Ejercicio
-1-3-8-9
+1-3-8-9-
 ______________
 Meditar
 
 ______________
 Diario
-1-2-3-4-5-8-9
+1-2-3-4-5-8-9-10-11-
 ______________
 Dormir temprano
 
 ______________
 Comer sano
-1-2-4-5-6-7-8-9
+1-2-4-5-6-7-8-9-11-
 ______________
 No sobre-pensar e ir despacio
-1-2-3-4-5-8-9
+1-2-3-4-5-8-9-10-11
 
 ------------------------------------------------ 
 ### ANÁLISIS DE LO REALIZADO EN EL DÍA
@@ -60,7 +60,7 @@ No sobre-pensar e ir despacio
 8
 9
 10
-11
+11 Leer antes de dormi me
 12
 13
 14
