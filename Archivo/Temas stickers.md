@@ -1,4 +1,4 @@
-- [ ] Brooklyn (8)
+- [ ] Brooklyn (7)
 	- [ ] Jake
 	- [ ] Boyle
 	- [ ] Holt
@@ -6,7 +6,7 @@
 	- [ ] Rosa
 	- [ ] Jeffords
 	- [ ] Cheddar
-- [ ] Sing (8)
+- [ ] Sing (6)
 	- [ ] Elefanta
 	- [ ] Koala
 	- [ ] Gorila
@@ -18,9 +18,7 @@
 	- [ ] Elend
 	- [ ] Sazed
 	- [ ] Oreseur
-	- [ ] Clubs
 	- [ ] Fantasma
-	- [ ] Ham
 	- [ ] Kelsier
 - [ ] Stormlight (9)
 	- [ ] Adolin
@@ -58,8 +56,7 @@
 	- [ ] Taylor
 	- [ ] Ed Sheeran
 	- [ ] Enola
-	- [ ] Moriarty
-	- [ ] 
+	- [ ] Elise
 
 
 Descartados
@@ -71,7 +68,9 @@ Descartados
 - [ ] Marsh
 - [ ] Inquisidor
 - [ ] Kolos
-
+- [ ] Moriarty
+- [ ] Clubs
+	- [ ] Ham
 
 - [ ] Jasnah
 
