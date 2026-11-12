@@ -39,9 +39,12 @@
 - [ ] Elantris
 	- [ ] Radoen
 	- [ ] Sarene
+	- [ ] Hrathen
+	- [ ] Galladon
 - [ ] Aliento de los dioses
 	- [ ] Susebron
 	- [ ] Siri
-	- [ ] 
+	- [ ] Sondeluz
+	- [ ] Vasher
 - [ ] Shrek
 - [ ] 
