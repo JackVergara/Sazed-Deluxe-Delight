@@ -1,1 +1,2 @@
 - [ ] Preguntar val peregrinación 
+- [ ] log
