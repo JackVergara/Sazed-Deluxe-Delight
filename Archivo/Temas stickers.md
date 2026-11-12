@@ -17,21 +17,17 @@
 	- [ ] Vin
 	- [ ] Elend
 	- [ ] Sazed
-	- [ ] Marsh
 	- [ ] Oreseur
 	- [ ] Clubs
 	- [ ] Fantasma
 	- [ ] Ham
 	- [ ] Kelsier
-	- [ ] Inquisidor
-	- [ ] Kolos
+
 - [ ] Stormlight (9)
 	- [ ] Adolin
 	- [ ] Hoid
 	- [ ] Dalinar
-	- [ ] Navani
 	- [ ] Jasnah
-	- [ ] Sadeas
 	- [ ] Kaladin
 	- [ ] Shallan
 - [ ] Elantris (4)
@@ -65,3 +61,8 @@ Descartados
 - [ ] Fiona
 - [ ] Pimiento
 - [ ] Renarin
+- [ ] Navani
+- [ ] Sadeas
+- [ ] Marsh
+- [ ] Inquisidor
+- [ ] Kolos
