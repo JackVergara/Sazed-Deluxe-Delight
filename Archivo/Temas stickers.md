@@ -55,7 +55,7 @@
 	- [ ] Taylor
 	- [ ] Ed Sheeran
 	- [ ] Elise
-
+	- [ ] Blanca nieves
 
 
 Descartados
@@ -72,7 +72,7 @@ Descartados
 - [ ] Ham
 - [ ] Enola
 - [ ] Jasnah
-- [ ] Blanca nieves
+
 - [ ] Elantris (4)
 	- [ ] Radoen
 	- [ ] Sarene
