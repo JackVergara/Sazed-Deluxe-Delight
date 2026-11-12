@@ -30,7 +30,6 @@
 	- [ ] Shallan
 	- [ ] Syl
 	- [ ] Patron
-
 - [ ] Shrek (9)
 	- [ ] Shrek
 	- [ ] Burro
@@ -50,13 +49,17 @@
 - [ ] El libro de la vida
 	- [ ] Manolo
 	- [ ] Carmen
-- [ ] Personajes Varios
-	- [ ] Taylor
-	- [ ] Ed Sheeran
+- [ ] Descendientes
 	- [ ] Mal
 	- [ ] Carlos
 	- [ ] Evie
 	- [ ] Blanca nieves
+- [ ] Personajes Varios
+	- [ ] Taylor
+	- [ ] Ed Sheeran
+	- [ ] Enola
+	- [ ] Moriarty
+
 
 Descartados
 - [ ] Fiona
@@ -67,16 +70,18 @@ Descartados
 - [ ] Marsh
 - [ ] Inquisidor
 - [ ] Kolos
-- [ ] Galladon
-- [ ] Sondeluz
+
+
 - [ ] Jasnah
 
 - [ ] Elantris (4)
 	- [ ] Radoen
 	- [ ] Sarene
 	- [ ] Hrathen
+	- [ ] Galladon
 - [ ] Aliento de los dioses (3)
 	- [ ] Siri
 	- [ ] Vasher
 	- [ ] Sangre nocturna
 	- [ ] Susebron 
+	- [ ] Sondeluz
