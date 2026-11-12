@@ -26,7 +26,7 @@
 	- [ ] Kelsier
 	- [ ] Inquisidor
 	- [ ] Kolos
-- [ ] Stormlight
+- [ ] Stormlight (9)
 	- [ ] Adolin
 	- [ ] Renarin
 	- [ ] Hoid
@@ -36,15 +36,24 @@
 	- [ ] Sadeas
 	- [ ] Kaladin
 	- [ ] Shallan
-- [ ] Elantris
+- [ ] Elantris (4)
 	- [ ] Radoen
 	- [ ] Sarene
 	- [ ] Hrathen
 	- [ ] Galladon
-- [ ] Aliento de los dioses
+- [ ] Aliento de los dioses (4)
 	- [ ] Susebron
 	- [ ] Siri
 	- [ ] Sondeluz
 	- [ ] Vasher
-- [ ] Shrek
-- [ ] 
+- [ ] Shrek (10)
+	- [ ] Shrek
+	- [ ] Burro
+	- [ ] Fiona
+	- [ ] Pinocho
+	- [ ] Jengi
+	- [ ] El gato con botas
+	- [ ] Farquaad
+	- [ ] Encantador
+	- [ ] Hada madrina
+	- [ ] Ruppel
