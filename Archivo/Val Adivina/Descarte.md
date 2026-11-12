@@ -1,4 +1,4 @@
-Descartados
+
 - [ ] Fiona
 - [ ] Pimiento
 - [ ] Renarin
