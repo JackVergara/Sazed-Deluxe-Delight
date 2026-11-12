@@ -57,3 +57,5 @@
 	- [ ] Encantador
 	- [ ] Hada madrina
 	- [ ] Ruppel
+
+Descartados
