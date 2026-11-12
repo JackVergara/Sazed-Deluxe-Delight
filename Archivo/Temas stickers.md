@@ -28,7 +28,7 @@
 	- [ ] Shallan
 	- [ ] Syl
 	- [ ] Patron
-- [ ] Shrek (9)
+- [ ] Shrek (8)
 	- [ ] Shrek
 	- [ ] Burro
 	- [ ] Pinocho
@@ -36,7 +36,6 @@
 	- [ ] El gato con botas
 	- [ ] Farquaad
 	- [ ] Encantador
-	- [ ] Hada madrina
 	- [ ] Ruppel
 - [ ] Miraculous (5)
 	- [ ] Marinnete
@@ -51,7 +50,7 @@
 	- [ ] Mal
 	- [ ] Carlos
 	- [ ] Evie
-- [ ] Personajes Varios (5)
+- [ ] Personajes Varios (4)
 	- [ ] Taylor
 	- [ ] Ed Sheeran
 	- [ ] Elise
@@ -72,7 +71,7 @@ Descartados
 - [ ] Ham
 - [ ] Enola
 - [ ] Jasnah
-
+- [ ] Hada madrina
 - [ ] Elantris (4)
 	- [ ] Radoen
 	- [ ] Sarene
