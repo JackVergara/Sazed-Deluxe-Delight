@@ -13,6 +13,8 @@
 - [ ] Enola
 - [ ] Jasnah
 - [ ] Hada madrina
+- [ ] Fantasma
+- [ ] Alya
 - [ ] Elantris (4)
 	- [ ] Radoen
 	- [ ] Sarene
