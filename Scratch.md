@@ -1,2 +1,4 @@
 - [ ] Preguntar val peregrinación 
-- [ ] log
+- [ ] logro hacer que se pueda vincular git
+- [ ] alarma para avisar que no habrá clases 
+- [ ] 
