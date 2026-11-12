@@ -1,5 +1,11 @@
 - [ ] Brooklyn 
+	- [ ] Jake
+	- [ ] Boyle
+	- [ ] 
 - [ ] Sing
 - [ ] Mistborn
 - [ ] Stormlight
+- [ ] Elantris
+- [ ] Aliento de los dioses
+- [ ] Shrek
 - [ ] 
