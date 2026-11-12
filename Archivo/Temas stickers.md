@@ -30,13 +30,7 @@
 	- [ ] Shallan
 	- [ ] Syl
 	- [ ] Patron
-- [ ] Elantris (4)
-	- [ ] Radoen
-	- [ ] Sarene
-- [ ] Aliento de los dioses (3)
-	- [ ] Siri
-	- [ ] Vasher
-	- [ ] Sangre nocturna
+
 - [ ] Shrek (9)
 	- [ ] Shrek
 	- [ ] Burro
@@ -57,12 +51,14 @@
 	- [ ] Manolo
 	- [ ] Carmen
 - [ ] Personajes Varios
-- [ ] Taylor
-- [ ] Ed Sheeran
-- [ ] 
+	- [ ] Taylor
+	- [ ] Ed Sheeran
+	- [ ] Mal
+	- [ ] Carlos
+	- [ ] Evie
+	- [ ] Blanca nieves
 
 Descartados
-- [ ] Susebron 
 - [ ] Fiona
 - [ ] Pimiento
 - [ ] Renarin
@@ -71,7 +67,16 @@ Descartados
 - [ ] Marsh
 - [ ] Inquisidor
 - [ ] Kolos
-- [ ] Hrathen
 - [ ] Galladon
 - [ ] Sondeluz
 - [ ] Jasnah
+
+- [ ] Elantris (4)
+	- [ ] Radoen
+	- [ ] Sarene
+	- [ ] Hrathen
+- [ ] Aliento de los dioses (3)
+	- [ ] Siri
+	- [ ] Vasher
+	- [ ] Sangre nocturna
+	- [ ] Susebron 
