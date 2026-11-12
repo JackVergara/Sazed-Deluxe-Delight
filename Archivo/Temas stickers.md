@@ -13,14 +13,14 @@
 	- [ ] Srita Crawly
 	- [ ] Ash
 	- [ ] Rosita
-- [ ] Mistborn (9)
+- [ ] Mistborn (6)
 	- [ ] Vin
 	- [ ] Elend
 	- [ ] Sazed
 	- [ ] Oreseur
 	- [ ] Fantasma
 	- [ ] Kelsier
-- [ ] Stormlight (9)
+- [ ] Stormlight (7)
 	- [ ] Adolin
 	- [ ] Hoid
 	- [ ] Dalinar
@@ -38,25 +38,25 @@
 	- [ ] Encantador
 	- [ ] Hada madrina
 	- [ ] Ruppel
-- [ ] Miraculous
+- [ ] Miraculous (5)
 	- [ ] Marinnete
 	- [ ] Luka
 	- [ ] Adrian
 	- [ ] Su amiga
 	- [ ] Mothman
-- [ ] El libro de la vida
+- [ ] El libro de la vida (2)
 	- [ ] Manolo
 	- [ ] Carmen
-- [ ] Descendientes
+- [ ] Descendientes (3)
 	- [ ] Mal
 	- [ ] Carlos
 	- [ ] Evie
-	- [ ] Blanca nieves
 - [ ] Personajes Varios
 	- [ ] Taylor
 	- [ ] Ed Sheeran
 	- [ ] Enola
 	- [ ] Elise
+	- [ ] Blanca nieves
 
 
 Descartados
@@ -70,7 +70,7 @@ Descartados
 - [ ] Kolos
 - [ ] Moriarty
 - [ ] Clubs
-	- [ ] Ham
+- [ ] Ham
 
 - [ ] Jasnah
 
