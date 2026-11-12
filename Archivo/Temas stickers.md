@@ -20,6 +20,9 @@
 	- [ ] Clubs
 	- [ ] Fantasma
 	- [ ] Ham
+	- [ ] Kolos
+	- [ ] Iniquisidor
+	- [ ] Kelsier
 - [ ] Stormlight
 	- [ ] Adolin
 	- [ ] Renarin
@@ -27,8 +30,11 @@
 	- [ ] Dalinar
 	- [ ] Navani
 	- [ ] Jasnah
-	- [ ] 
+	- [ ] Sadeas
+	- [ ] Kaladin
+	- [ ] Shallan
 - [ ] Elantris
+	- [ ] 
 - [ ] Aliento de los dioses
 - [ ] Shrek
 - [ ] 
