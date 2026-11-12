@@ -1,3 +1,8 @@
-- [ ] Caja de tés.
-- [ ] vela ladybug
-- [ ] salsa
+
+
+
+----
+## Regalos pendientes
+- Leapster
+- vela ladybug
+
