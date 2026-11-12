@@ -1,4 +1,4 @@
-- [ ] Brooklyn 
+- [ ] Brooklyn (8)
 	- [ ] Jake
 	- [ ] Boyle
 	- [ ] Holt
@@ -7,14 +7,14 @@
 	- [ ] Jeffords
 	- [ ] Cheddar
 	- [ ] Pimiento
-- [ ] Sing
+- [ ] Sing (8)
 	- [ ] Elefanta
 	- [ ] Koala
 	- [ ] Gorila
 	- [ ] Srita Crawly
 	- [ ] Ash
 	- [ ] Rosita
-- [ ] Mistborn
+- [ ] Mistborn (9)
 	- [ ] Vin
 	- [ ] Elend
 	- [ ] Sazed
@@ -23,9 +23,9 @@
 	- [ ] Clubs
 	- [ ] Fantasma
 	- [ ] Ham
-	- [ ] Kolos
-	- [ ] Iniquisidor
 	- [ ] Kelsier
+	- [ ] Inquisidor
+	- [ ] Kolos
 - [ ] Stormlight
 	- [ ] Adolin
 	- [ ] Renarin
