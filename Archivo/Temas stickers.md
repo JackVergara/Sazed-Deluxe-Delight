@@ -41,15 +41,13 @@
 	- [ ] Sarene
 	- [ ] Hrathen
 	- [ ] Galladon
-- [ ] Aliento de los dioses (4)
-
+- [ ] Aliento de los dioses (3)
 	- [ ] Siri
 	- [ ] Sondeluz
 	- [ ] Vasher
-- [ ] Shrek (10)
+- [ ] Shrek (9)
 	- [ ] Shrek
 	- [ ] Burro
-	- [ ] Fiona
 	- [ ] Pinocho
 	- [ ] Jengi
 	- [ ] El gato con botas
@@ -57,6 +55,9 @@
 	- [ ] Encantador
 	- [ ] Hada madrina
 	- [ ] Ruppel
+- [ ] Miraculous
+- [ ] 
 
 Descartados
-	- [ ] Susebron 
+- [ ] Susebron 
+- [ ] Fiona
