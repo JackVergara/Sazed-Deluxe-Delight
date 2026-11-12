@@ -42,7 +42,7 @@
 	- [ ] Hrathen
 	- [ ] Galladon
 - [ ] Aliento de los dioses (4)
-	- [ ] Susebron
+
 	- [ ] Siri
 	- [ ] Sondeluz
 	- [ ] Vasher
@@ -59,3 +59,4 @@
 	- [ ] Ruppel
 
 Descartados
+	- [ ] Susebron 
