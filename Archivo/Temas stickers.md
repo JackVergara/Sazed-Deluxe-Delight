@@ -56,6 +56,10 @@
 - [ ] El libro de la vida
 	- [ ] Manolo
 	- [ ] Carmen
+- [ ] Personajes Varios
+- [ ] Taylor
+- [ ] Ed Sheeran
+- [ ] 
 
 Descartados
 - [ ] Susebron 
