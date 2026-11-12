@@ -1,9 +1,24 @@
 - [ ] Brooklyn 
 	- [ ] Jake
 	- [ ] Boyle
-	- [ ] 
+	- [ ] Holt
+	- [ ] Amy
+	- [ ] Rosa
+	- [ ] Jeffords
+	- [ ] Cheddar
+	- [ ] Pimiento
 - [ ] Sing
+	- [ ] Elefanta
+	- [ ] Koala
+	- [ ] Gorila
 - [ ] Mistborn
+	- [ ] Vin
+	- [ ] Elend
+	- [ ] Sazed
+	- [ ] Marsh
+	- [ ] Oreseur
+	- [ ] Clubs
+	- [ ] 
 - [ ] Stormlight
 - [ ] Elantris
 - [ ] Aliento de los dioses
