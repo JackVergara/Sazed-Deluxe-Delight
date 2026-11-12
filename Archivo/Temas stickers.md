@@ -11,6 +11,9 @@
 	- [ ] Elefanta
 	- [ ] Koala
 	- [ ] Gorila
+	- [ ] Srita Crawly
+	- [ ] Ash
+	- [ ] Rosita
 - [ ] Mistborn
 	- [ ] Vin
 	- [ ] Elend
@@ -34,7 +37,11 @@
 	- [ ] Kaladin
 	- [ ] Shallan
 - [ ] Elantris
-	- [ ] 
+	- [ ] Radoen
+	- [ ] Sarene
 - [ ] Aliento de los dioses
+	- [ ] Susebron
+	- [ ] Siri
+	- [ ] 
 - [ ] Shrek
 - [ ] 
