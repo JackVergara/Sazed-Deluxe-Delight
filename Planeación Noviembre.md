@@ -60,7 +60,7 @@ No sobre-pensar e ir despacio
 8
 9
 10
-11 Leer antes de dormi me
+11 Leer antes de dormir me ayudo muchísimo, recordar no utilizar pantallas.
 12
 13
 14
