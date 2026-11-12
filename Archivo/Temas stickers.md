@@ -26,9 +26,10 @@
 	- [ ] Adolin
 	- [ ] Hoid
 	- [ ] Dalinar
-	- [ ] Jasnah
 	- [ ] Kaladin
 	- [ ] Shallan
+	- [ ] Syl
+	- [ ] Patron
 - [ ] Elantris (4)
 	- [ ] Radoen
 	- [ ] Sarene
@@ -52,6 +53,8 @@
 	- [ ] Adrian
 	- [ ] Su amiga
 	- [ ] Mothman
+- [ ] El libro de la vida
+	- [ ] Manolo
 
 Descartados
 - [ ] Susebron 
@@ -66,3 +69,4 @@ Descartados
 - [ ] Hrathen
 - [ ] Galladon
 - [ ] Sondeluz
+- [ ] Jasnah
