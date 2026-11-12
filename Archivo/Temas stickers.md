@@ -6,7 +6,6 @@
 	- [ ] Rosa
 	- [ ] Jeffords
 	- [ ] Cheddar
-	- [ ] Pimiento
 - [ ] Sing (8)
 	- [ ] Elefanta
 	- [ ] Koala
@@ -28,7 +27,6 @@
 	- [ ] Kolos
 - [ ] Stormlight (9)
 	- [ ] Adolin
-	- [ ] Renarin
 	- [ ] Hoid
 	- [ ] Dalinar
 	- [ ] Navani
@@ -56,8 +54,14 @@
 	- [ ] Hada madrina
 	- [ ] Ruppel
 - [ ] Miraculous
-- [ ] 
+	- [ ] Marinnete
+	- [ ] Luka
+	- [ ] Adrian
+	- [ ] Su amiga
+	- [ ] Mothman
 
 Descartados
 - [ ] Susebron 
 - [ ] Fiona
+- [ ] Pimiento
+- [ ] Renarin
