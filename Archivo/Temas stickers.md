@@ -51,12 +51,11 @@
 	- [ ] Mal
 	- [ ] Carlos
 	- [ ] Evie
-- [ ] Personajes Varios
+- [ ] Personajes Varios (5)
 	- [ ] Taylor
 	- [ ] Ed Sheeran
-	- [ ] Enola
 	- [ ] Elise
-	- [ ] Blanca nieves
+
 
 
 Descartados
@@ -71,9 +70,9 @@ Descartados
 - [ ] Moriarty
 - [ ] Clubs
 - [ ] Ham
-
+- [ ] Enola
 - [ ] Jasnah
-
+- [ ] Blanca nieves
 - [ ] Elantris (4)
 	- [ ] Radoen
 	- [ ] Sarene
