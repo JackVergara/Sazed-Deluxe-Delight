@@ -18,8 +18,16 @@
 	- [ ] Marsh
 	- [ ] Oreseur
 	- [ ] Clubs
-	- [ ] 
+	- [ ] Fantasma
+	- [ ] Ham
 - [ ] Stormlight
+	- [ ] Adolin
+	- [ ] Renarin
+	- [ ] Hoid
+	- [ ] Dalinar
+	- [ ] Navani
+	- [ ] Jasnah
+	- [ ] 
 - [ ] Elantris
 - [ ] Aliento de los dioses
 - [ ] Shrek
