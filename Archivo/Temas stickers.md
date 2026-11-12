@@ -1,5 +1,5 @@
 - [ ] Brooklyn (7)
-	- [ ] Jake
+	- [x] Jake
 	- [ ] Boyle
 	- [ ] Holt
 	- [ ] Amy
