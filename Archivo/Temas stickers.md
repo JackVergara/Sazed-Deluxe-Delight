@@ -22,7 +22,6 @@
 	- [ ] Fantasma
 	- [ ] Ham
 	- [ ] Kelsier
-
 - [ ] Stormlight (9)
 	- [ ] Adolin
 	- [ ] Hoid
@@ -33,12 +32,10 @@
 - [ ] Elantris (4)
 	- [ ] Radoen
 	- [ ] Sarene
-	- [ ] Hrathen
-	- [ ] Galladon
 - [ ] Aliento de los dioses (3)
 	- [ ] Siri
-	- [ ] Sondeluz
 	- [ ] Vasher
+	- [ ] Sangre nocturna
 - [ ] Shrek (9)
 	- [ ] Shrek
 	- [ ] Burro
@@ -66,3 +63,6 @@ Descartados
 - [ ] Marsh
 - [ ] Inquisidor
 - [ ] Kolos
+- [ ] Hrathen
+- [ ] Galladon
+- [ ] Sondeluz
