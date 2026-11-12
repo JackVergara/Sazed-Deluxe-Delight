@@ -1,0 +1,85 @@
+- [ ] Brooklyn (7)
+	- [ ] Jake
+	- [ ] Boyle
+	- [ ] Holt
+	- [ ] Amy
+	- [ ] Rosa
+	- [ ] Jeffords
+	- [ ] Cheddar
+- [ ] Sing (6)
+	- [ ] Elefanta
+	- [ ] Koala
+	- [ ] Gorila
+	- [ ] Srita Crawly
+	- [ ] Ash
+	- [ ] Rosita
+- [ ] Mistborn (6)
+	- [ ] Vin
+	- [ ] Elend
+	- [ ] Sazed
+	- [ ] Oreseur
+	- [ ] Fantasma
+	- [ ] Kelsier
+- [ ] Stormlight (7)
+	- [ ] Adolin
+	- [ ] Hoid
+	- [ ] Dalinar
+	- [ ] Kaladin
+	- [ ] Shallan
+	- [ ] Syl
+	- [ ] Patron
+- [ ] Shrek (8)
+	- [ ] Shrek
+	- [ ] Burro
+	- [ ] Pinocho
+	- [ ] Jengi
+	- [ ] El gato con botas
+	- [ ] Farquaad
+	- [ ] Encantador
+	- [ ] Ruppel
+- [ ] Miraculous (5)
+	- [ ] Marinnete
+	- [ ] Luka
+	- [ ] Adrian
+	- [ ] Su amiga
+	- [ ] Mothman
+- [ ] El libro de la vida (2)
+	- [ ] Manolo
+	- [ ] Carmen
+- [ ] Descendientes (3)
+	- [ ] Mal
+	- [ ] Carlos
+	- [ ] Evie
+- [ ] Personajes Varios (4)
+	- [ ] Taylor
+	- [ ] Ed Sheeran
+	- [ ] Elise
+	- [ ] Blanca nieves
+
+
+Descartados
+- [ ] Fiona
+- [ ] Pimiento
+- [ ] Renarin
+- [ ] Navani
+- [ ] Sadeas
+- [ ] Marsh
+- [ ] Inquisidor
+- [ ] Kolos
+- [ ] Moriarty
+- [ ] Clubs
+- [ ] Ham
+- [ ] Enola
+- [ ] Jasnah
+- [ ] Hada madrina
+- [ ] Elantris (4)
+	- [ ] Radoen
+	- [ ] Sarene
+	- [ ] Hrathen
+	- [ ] Galladon
+- [ ] Aliento de los dioses (3)
+	- [ ] Siri
+	- [ ] Vasher
+	- [ ] Sangre nocturna
+	- [ ] Susebron 
+	- [ ] Sondeluz

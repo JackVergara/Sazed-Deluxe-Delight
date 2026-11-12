@@ -1,5 +1,5 @@
 - [ ] Brooklyn (7)
-	- [x] Jake
+	- [ ] Jake
 	- [ ] Boyle
 	- [ ] Holt
 	- [ ] Amy
@@ -57,29 +57,3 @@
 	- [ ] Blanca nieves
 
 
-Descartados
-- [ ] Fiona
-- [ ] Pimiento
-- [ ] Renarin
-- [ ] Navani
-- [ ] Sadeas
-- [ ] Marsh
-- [ ] Inquisidor
-- [ ] Kolos
-- [ ] Moriarty
-- [ ] Clubs
-- [ ] Ham
-- [ ] Enola
-- [ ] Jasnah
-- [ ] Hada madrina
-- [ ] Elantris (4)
-	- [ ] Radoen
-	- [ ] Sarene
-	- [ ] Hrathen
-	- [ ] Galladon
-- [ ] Aliento de los dioses (3)
-	- [ ] Siri
-	- [ ] Vasher
-	- [ ] Sangre nocturna
-	- [ ] Susebron 
-	- [ ] Sondeluz
