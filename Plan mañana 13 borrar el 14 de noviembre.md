@@ -1,3 +1,5 @@
 - Firma de los órganos
 - Enseñar lo de los órganos
-- Enseñar lo de 
+- Enseñar lo de las tarjetas de crédito
+- Decir lo de que hacer el lunes (mis planes y eso)
+- Dibujar de memoria
