@@ -7,8 +7,8 @@
 	- [ ] Grabar audio
 	- [ ] Editar video
 	- [ ] Publicar video
-- [ ] Leer 4 libros (0/4)
-	- [ ] Kong
+- [ ] Leer 4 libros (1/4)
+	- [x] Kong
 	- [ ] Palabras radiantes
 	- [ ] El de disney
 	- [ ] Uno extra
