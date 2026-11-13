@@ -1,2 +1,1 @@
 - [ ] Preguntar val peregrinación 
-- [ ] 
