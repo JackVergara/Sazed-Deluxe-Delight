@@ -1,3 +1,6 @@
 - [ ] Revisar todos los requisitos.
 - [ ] Mandarlos por mensaje (preferiblemente ir)
-- [ ] Ir el mié
+- [ ] Ir el miércoles de la siguiente semana.
+- [ ] Probablemente ir el lunes a pagar las actas en el servicio de actas presencial.
+	- [ ] Revisar en que dirección es y cómo son los pagos.
+- [ ] Hacer todo esto de planeación bien bien el sábado **13 de **
