@@ -1,0 +1,3 @@
+- [ ] Revisar todos los requisitos.
+- [ ] Mandarlos por mensaje (preferiblemente ir)
+- [ ] Ir el mié
